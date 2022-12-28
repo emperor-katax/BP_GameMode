@@ -16,6 +16,8 @@ Demonstrate blueprint communication with 3 methods:
 - Using picker
 - Access to GameMode
 
+Demonstarte patterns of making simple puzzles in game.
+
 Blueprint only
 
 Using:
