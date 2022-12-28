@@ -14,7 +14,7 @@ This application:
 Demonstrate blueprint communication with 3 methods:
 - Having reference
 - Using picker
-- Using GameMode
+- Access to GameMode
 
 Blueprint only
 
